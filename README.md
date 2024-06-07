@@ -1,4 +1,4 @@
 # ronakrepo
 this is my first repo
 <br>
-author - ronak gupta
+author - ronak Gupta
